@@ -1,0 +1,17 @@
+/* Cormorant Upright Regular */
+@font-face {
+font-family: 'Cormorant Upright';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://jcychung.github.io/CormorantUpright/CormorantUpright-Regular.ttf) format('truetype');
+}
+
+/* Cormorant Upright Bold */
+@font-face {
+font-family: 'Cormorant Upright';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://jcychung.github.io/CormorantUpright/CormorantUpright-Bold.ttf) format('truetype');
+}
