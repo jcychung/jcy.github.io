@@ -4,7 +4,7 @@ font-family: 'Tinos';
 font-style: normal;
 font-weight: 400;
 font-display: swap;
-src: url(https://jcy.github.io/Tinos/Tinos-Regular.ttf) format('truetype');
+src: url(https://jcychung.github.io/Tinos/Tinos-Regular.ttf) format('truetype');
 }
 
 /* Tinos Italic */
@@ -13,7 +13,7 @@ font-family: 'Tinos';
 font-style: italic;
 font-weight: 400;
 font-display: swap;
-src: url(https://jcy.github.io/Tinos/Tinos-Italic.ttf) format('truetype');
+src: url(https://jcychung.github.io/Tinos/Tinos-Italic.ttf) format('truetype');
 }
 
 /* Tinos Bold */
@@ -22,7 +22,7 @@ font-family: 'Tinos';
 font-style: normal;
 font-weight: 700;
 font-display: swap;
-src: url(https://jcy.github.io/Tinos/Tinos-Bold.ttf) format('truetype');
+src: url(https://jcychung.github.io/Tinos/Tinos-Bold.ttf) format('truetype');
 }
 
 /* Tinos Bold Italic */
@@ -31,5 +31,5 @@ font-family: 'Tinos';
 font-style: italic;
 font-weight: 700;
 font-display: swap;
-src: url(https://jcy.github.io/Tinos/Tinos-BoldItalic.ttf) format('truetype');
+src: url(https://jcychung.github.io/Tinos/Tinos-BoldItalic.ttf) format('truetype');
 }
